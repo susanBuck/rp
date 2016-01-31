@@ -1,4 +1,4 @@
-# Server Side Includes (SSI)
+# Lab 4: Server Side Includes (SSI)
 
 In addition to `index.html` we want to complete 4 other pages, one for each house in Hogwarts.
 

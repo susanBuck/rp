@@ -1,8 +1,8 @@
-# CSS: Page layouts
+# Lab 4: CSS - Page layouts
 
 ## Overview
 
-+ Recap: 
++ Recap:
 	+ 4 position properties
 	+ fixed vs. fluid layouts
 	+ float

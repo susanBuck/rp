@@ -1,4 +1,4 @@
-# Lab 3: CSS
+# Lab 3: Introduction to CSS
 
 ## Overview
 In this lab you will practice specifying the style of HTML elements using Cascading Style Sheets (CSS).
