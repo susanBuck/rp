@@ -1,4 +1,4 @@
-# Lab 3: Introduction to CSS
+# Lab 3: CSS
 
 ## Overview
 In this lab you will practice specifying the style of HTML elements using Cascading Style Sheets (CSS).
@@ -52,7 +52,7 @@ You can now remove the `background-color:orange` declaration in `style.css` (it 
 ## Get styling
 With your files all set up, start adding CSS to match the styled page shown above.
 
-[You can open the screenshot in a new tab to use as reference...](/labs/lab03/images/wellesley-page-styled.png)
+[You can open the screenshot in a new tab to use as reference...](http://cs110.wellesley.edu/labs/lab03/images/wellesley-page-styled.png)
 
 We'll start at the outside and work our way in.
 
@@ -127,7 +127,3 @@ If you look at the images, you'll notice Melroy has the class `tiltleft` and Cli
 
 ### Validate
 Run your CSS code through the [CSS Validator](http://jigsaw.w3.org/css-validator/) to check for any problems.
-
-
-## Footnotes
-[Autumn Foliage background image credit: Soe Lin on Flickr](https://flic.kr/p/dki7eu)
