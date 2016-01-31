@@ -35,7 +35,7 @@ We're using **inline** JavaScript here to call the function `sayHello()`. Inline
 <br>
 Fill out the `sayHello()` function in `lab06.js` so that it displays an alert with this text:
 
-```txt
+```
 Welcome to the Coffee Consumption Calculator. We're here to help you gauge your coffee habit.
 ```
 
