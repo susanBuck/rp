@@ -28,16 +28,15 @@ In this lab, and this week's homework, we're giving you a HTML file with some bu
 
 ```html
 <button type="button" onClick="sayHello()">Say hello...</button>
-````
+```
 
 We're using **inline** JavaScript here to call the function `sayHello()`. Inline JS is not something you'll want to use regularly, but it gets the job done easily for these simple examples. We'll cover better ways of connecting buttons to functions later in the semester.
 
 <br>
 Fill out the `sayHello()` function in `lab06.js` so that it displays an alert with this text:
 
-```
-Welcome to the Coffee Consumption Calculator. We're here to help you gauge your coffee habit.
-```
+> Welcome to the Coffee Consumption Calculator. We're here to help you gauge your coffee habit.
+
 
 <Br>
 Then test (i.e. click) the *Say Hello* button and make sure it displays that alert.
