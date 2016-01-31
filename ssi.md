@@ -49,7 +49,7 @@ Finally, test your work in the browser.
 Your URL should look something like this: `http://cs.wellesley.edu/~yourUsername/lab04/index.html`.
 
 
-## Pages for the remaining three houses.
+## Pages for the remaining three houses
 
 * index.html &#x2713;
 * gryffindor.html &#x2713;
